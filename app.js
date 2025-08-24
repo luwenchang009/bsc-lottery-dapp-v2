@@ -1,0 +1,1 @@
+console.log("BSC Lottery DApp loaded");
